@@ -7,7 +7,7 @@ export const bangs = [
     r: 0,
     s: "ChatGPT",
     sc: "AI",
-    t: "ChatGPT",
+    t: "chatgpt",
     u: "https://chatgpt.com/?q={{{s}}}",
   },
   {
